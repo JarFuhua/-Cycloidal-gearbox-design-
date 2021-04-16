@@ -10,3 +10,8 @@ ratio：减速比
 # 程序中的例子结果
 ![image](https://github.com/yuan5/-Cycloidal-gearbox-design-/blob/main/image/untitled.jpg)
 
+## 操作步骤
+# 步骤一
+        将数据文件data.txt打开复制里面的数据（Ctrl+a, Ctrl+c）。
+# 步骤二
+        在CAD中选择样条曲线，然后将鼠标光标移动到CAD的命令行中，复制刚刚拷贝的数据（Ctrl+v）
