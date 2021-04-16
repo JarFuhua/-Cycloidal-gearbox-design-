@@ -22,5 +22,9 @@ ratio：减速比
 ## 步骤三 绘制线轮外轮廓
         使用CAD的偏移功能，选中曲线向曲线内部偏移一个滚针半径的直径，也就是代码中的roll_r, 例子中的数据：3
         如下图
-![image]()
-        
+![image](https://github.com/yuan5/-Cycloidal-gearbox-design-/blob/main/image/xianlun.PNG)
+至此，你所要的摆线轮廓已经生成！！！下面根据你自己的需求（恳请使用根据标准件来设计，滚针标准件和轴承标准件）设计剩下的参数和减速器的外观。
+# 我的减速器最终形态
+![image](https://github.com/yuan5/-Cycloidal-gearbox-design-/blob/main/image/re.PNG)
+![image](https://github.com/yuan5/-Cycloidal-gearbox-design-/blob/main/image/re2.PNG)
+# 不要羡慕，哥绘画功底就是比较好
