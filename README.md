@@ -5,3 +5,4 @@ d：轮廓直径，滚针布局的轮廓圆的直径
 d_roll：滚针直径
 e：偏心距离
 ratio：减速比
+![image](https://github.com/yuan5/-Cycloidal-gearbox-design-/blob/main/image/dwg.PNG)
