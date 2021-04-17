@@ -29,10 +29,12 @@ ratio：减速比
 ![image](https://github.com/yuan5/-Cycloidal-gearbox-design-/blob/main/image/re2.PNG)
 # 不要羡慕，哥绘画功底就是比较好
 
-使用了matlab非常简单的运算功能，应该所有的matlab版本都能支持
-本人使用的matlab版本是：正版matlab2019
-CAD：试用30天版本的AutoCAD2008
-Solidworks: 试用30天版本的solidworks2012
+具体教程可以通过观看B站视频：https://www.bilibili.com/video/BV1k54y1L7Jc?from=search&seid=18059149119059827465  
+
+使用了matlab非常简单的运算功能，应该所有的matlab版本都能支持  
+本人使用的matlab版本是：正版matlab2019  
+CAD：试用30天版本的AutoCAD2008  
+Solidworks: 试用30天版本的solidworks2012  
 
 
 
